@@ -14,8 +14,13 @@ Siamese neural network has the objective to find how similar two comparable thin
 ![alt text](https://cdn-images-1.medium.com/max/800/1*PIrETF3nqHBQ7K9g9y_p7w.png)
 
 
+We can apply gradient descent on a triplet loss function which is simply a loss function using three images: an anchor image A, a positive image P(same person as the anchor), as well as a negative image N (different person than the anchor). So, we want the distance d(A, P) between the encoding of the anchor and the encoding of the positive example to be less than or equal to the distance d(A, N) between the encoding of the anchor and the encoding of the negative example. In other words, we want pictures of the same person to be close to each other, and pictures of different persons to be far from each other.
 
-Reference: 
+
+
+
+
+### Reference: 
 
 https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e
 
