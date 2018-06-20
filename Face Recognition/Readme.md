@@ -11,4 +11,4 @@ The idea here is that we need to learn an object class from only a few data and 
 
 Siamese neural network has the objective to find how similar two comparable things are (e.g. signature verification, face recognition..). This network has two identical subnetworks, which both have the same parameters and weights.
 
-![alt text]('https://cdn-images-1.medium.com/max/800/1*PIrETF3nqHBQ7K9g9y_p7w.png')
+![alt text](https://cdn-images-1.medium.com/max/800/1*PIrETF3nqHBQ7K9g9y_p7w.png)
