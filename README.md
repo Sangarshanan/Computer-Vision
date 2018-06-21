@@ -16,5 +16,5 @@ To solve this problem, we cannot use only a convolutional neural network for two
 
 
 
-<h3> align = "center> ...Will be updated constantly...</h3>
+<h3 align = "center"> ...Will be updated constantly...</h3>
 
