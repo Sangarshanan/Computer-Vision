@@ -12,3 +12,9 @@ To solve this problem, we cannot use only a convolutional neural network for two
 
 2) It is not convenient to retrain the model every time we add a picture of a new person to the system. However, we can use Siamese neural network for face recognition.
 
+
+
+
+
+## ...Will be updated constantly...
+
