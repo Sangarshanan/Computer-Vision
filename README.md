@@ -12,6 +12,15 @@ To solve this problem, we cannot use only a convolutional neural network for two
 
 2) It is not convenient to retrain the model every time we add a picture of a new person to the system. However, we can use Siamese neural network for face recognition.
 
+I am using the triplet loss function....Triplet because it used THREE vectors 
+
+- Vector of the image we feed I
+
+- Vector of positive image P
+
+- Vector of Negative image N
+
+It tries to reduce the distance between I-P while increasing the distance between I-N
 
 
 
