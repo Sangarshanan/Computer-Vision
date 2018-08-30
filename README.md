@@ -22,6 +22,11 @@ I am using the triplet loss function....Triplet because it used THREE vectors
 
 It tries to reduce the distance between I-P while increasing the distance between I-N
 
+### 2) Playing Dino run using python 
+
+The main libraries used are Pyautogui and Pillow 
+
+
 
 
 
