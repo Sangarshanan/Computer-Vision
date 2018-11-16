@@ -1,1 +1,1 @@
-## Duplicate detection in E-commerce
+## Duplicate detection in e-commerce
