@@ -1,4 +1,4 @@
-### 2) Playing Dino run using python 
+## Playing Dino run using python 
 
 Dino run is an offline game available in chrome
 
